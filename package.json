@@ -1,0 +1,24 @@
+{
+  "name": "promised-del",
+  "version": "1.0.0",
+  "description": "Wrapper for del that adds support for promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codecapers/promised-del"
+  },
+  "keywords": [
+    "del",
+    "promise",
+    "promises"
+  ],
+  "author": "Ashley Davis <ashley@codecapers.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codecapers/promised-del/issues"
+  },
+  "homepage": "https://github.com/codecapers/promised-del"
+}
