@@ -1,6 +1,6 @@
 {
   "name": "promised-del",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper for del that adds support for promises.",
   "main": "index.js",
   "scripts": {
